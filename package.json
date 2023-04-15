@@ -12,6 +12,7 @@
     "prettier:fix": "prettier --write ."
   },
   "dependencies": {
+    "@astrojs/rss": "^2.3.2",
     "astro": "^2.2.1"
   },
   "devDependencies": {
